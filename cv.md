@@ -21,6 +21,8 @@ Sorry, have nothing to tell. Just want to pass an assignment.
 * PhD Nuclear Physics (Yale '99)
 
 ---
+### Languages:
+
 * English - Proficient
 * Hindi - Advanced
 * Arabic - Basic
