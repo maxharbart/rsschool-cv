@@ -46,4 +46,4 @@ static int binder_set_stop_on_user_error(const char *val,
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
 
 
-
+https://maxharbart.github.io/rsschool-cv/cv
