@@ -1,1 +1,1 @@
-https://maxharbart.github.io/rsschool-cv/cv
+https://maxharbart.github.io/rsschool-cv/
