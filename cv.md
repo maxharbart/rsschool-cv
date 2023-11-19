@@ -6,11 +6,11 @@
 * Location: Pasadena, California
 * 88005553535
 * test@example.com
-* telegram: @durov
+* telegram: @example
 ---
 ### About me:
 
-Sorry, have nothing to tell. Just want to pass an assignment.
+With a love for continual learning, I thrive on challenges, finding innovative solutions through effective collaboration. Outside the professional sphere, you'll often find me immersed in [hobbies or activities], fostering a balance between work and personal pursuits. Committed to maintaining positivity and embracing growth, I believe in the power of continuous self-improvement. Let's connect for meaningful conversations and collaborations that contribute to mutual learning and success!
 
 ---
 ### Skills:
@@ -24,26 +24,28 @@ Sorry, have nothing to tell. Just want to pass an assignment.
 ### Languages:
 
 * English - Proficient
+* Mandarin - Advanced
 * Hindi - Advanced
 * Arabic - Basic
+
 
 ---
 ### Code example:
 ```
 static int binder_set_stop_on_user_error(const char *val,
-					 const struct kernel_param *kp)
+                                         const struct kernel_param *kp)
 {
-	int ret;
+    int ret = param_set_int(val, kp);
 
-	ret = param_set_int(val, kp);
-	if (binder_stop_on_user_error < 2)
-		wake_up(&binder_user_error_wait);
-	return ret;
+    if (binder_stop_on_user_error < 2)
+        wake_up(&binder_user_error_wait);
+
+    return ret;
 }
 ```
 
 ---
 ### Favourite quote:
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
+> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
 
